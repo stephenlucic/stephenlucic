@@ -41,6 +41,16 @@ Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y colab
 <a href="https://www.linkedin.com/in/stephenlucic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephenlucic" height="30" width="40" /></a>
 </p>
 
+
+## Estadisticas
+
+<a href="https://github.com/stephenlucic/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stephenlucic&show_icons=true&theme=radical&rank_icon=github&locale=es" />
+</a>
+<a href="https://github.com/stephenlucic/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenlucic&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical&locale=es" />
+</a>
+
 <!--
 **stephenlucic/stephenlucic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
